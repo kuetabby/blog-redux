@@ -1,1 +1,1 @@
-Simple Listing Blog with Redux
+Simple Blog with Redux
