@@ -1,4 +1,4 @@
-import { FETCH_POST, FETCH_USER } from "../constants";
+import { FETCH_POST, FETCH_USER } from "./constants";
 
 const initial = {
   data: []

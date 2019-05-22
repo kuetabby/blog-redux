@@ -6,7 +6,7 @@ import thunk from "redux-thunk";
 import * as serviceWorker from "./serviceWorker";
 
 import { postReducer, userReducer } from "./reducers";
-import "./styles.css";
+import "./index.css";
 import App from "./App";
 
 const rootReducer = combineReducers({ post: postReducer, user: userReducer });
